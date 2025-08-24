@@ -1,6 +1,7 @@
 # emmanuel-ricard-tp1
 
 2. Le thème de la scène interactive que je vais développer sera un jeu de plateforme 2D où un petit bonhomme part d'un point A à un point B pour compléter le niveau sans mourrir.
+   <br />
 3.1 les touches de claviers utilisés seront :
    A : aller à gauche
    D : aller à droite
