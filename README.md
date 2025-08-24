@@ -20,5 +20,19 @@
    <br />
    <br />
 3.3 Le choix sonore sera un style calme et engageant, ne mettant pas de pression au joueur tout en le maintenant intéressé au jeu.
-
-visuel pour le terrain : https://kenney.nl/assets/simplified-platformer-pack 
+<br />
+<br />
+visuel pour le terrain : https://kenney.nl/assets/simplified-platformer-pack
+<br /> 
+ennemis : https://kenney.nl/assets/animal-pack-redux
+<br />
+niveau industriel : https://kenney.nl/assets/platformer-pack-industrial
+<br />
+plateformes aériennes : https://kenney.nl/assets/jumper-pack
+<br />
+<br />
+musique calme : https://www.chosic.com/download-audio/59280/
+<br />
+musique engageante : https://www.chosic.com/download-audio/45420/
+<br />
+musique stimulante : https://pixabay.com/music/happy-childrens-tunes-upbeat-background-loop-casual-video-game-music-249200/
