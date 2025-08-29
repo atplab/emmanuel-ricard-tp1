@@ -1,6 +1,6 @@
 # emmanuel-ricard-tp1
 
-2. Le thème de la scène interactive que je vais développer sera un jeu de plateforme 2D où un petit bonhomme part d'un point A à un point B pour compléter le niveau sans mourrir.
+2. Le thème de la scène interactive que je vais développer sera un jeu de plateforme 2D où un petit bonhomme part d'un point A à un point B pour compléter le niveau sans mourrir. Il y aura du parcours, et si le joueur tombe il doit recommencer le niveau. ceci forcera le joueur à ne pas courrir dans le niveau et à prendre leur temps.
    <br />
    <br />
 3.1 les touches de claviers utilisés seront :
